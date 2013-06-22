@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Password Hash
  * Plugin URI: https://github.com/chrisguitarguy/WP-Password-Hash
- * Description: Use PHP 5.5's new password_* functions (or fall back on Anthony Ferrara password_compat).
+ * Description: Use PHP 5.5's new password_* functions (or fall back on Anthony Ferrara's password_compat).
  * Version: 1.0
  * Author: Christopher Davis
  * Author URI: http://christopherdavis.me
